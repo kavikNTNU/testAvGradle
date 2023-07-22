@@ -17,3 +17,8 @@ application {
     // Define the main class for the application.
     mainClass = 'testavgradle.app.App'
 }
+
+repositories {
+    mavenCentral()
+    // Other repositories if needed...
+}
